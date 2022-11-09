@@ -1,0 +1,6 @@
+Item_ID,Store_ID,Total_item,Item_Sold,Item_left,
+Itm-101,S-121,40,20,20,
+Itm-102,S-122,67,15,52,
+Itm-103,S-123,71,56,15,
+Itm-104,S-124,13,6,7,
+Itm-103,S-121,50,14,36,
