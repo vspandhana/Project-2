@@ -1,0 +1,45 @@
+<?xml version = "1.0"?>
+
+
+    <Store_Inventory>
+      <Item_ID>Itm-101</Item_ID>
+      <Store_ID>S-121</Store_ID>
+      <Total_item>40</Total_item>
+      <Item_Sold>20</Item_Sold>
+	  <Item_left>20</Item_left>
+   </Store_Inventory>
+   
+    <Store_Inventory>
+      <Item_ID>Itm-102</Item_ID>
+      <Store_ID>S-122</Store_ID>
+      <Total_item>67</Total_item>
+      <Item_Sold>15</Item_Sold>
+	  <Item_left>52</Item_left>
+   </Store_Inventory>
+   
+    <Store_Inventory>
+      <Item_ID>Itm-103</Item_ID>
+      <Store_ID>S-123</Store_ID>
+      <Total_item>71</Total_item>
+      <Item_Sold>56</Item_Sold>
+	  <Item_left>15</Item_left>
+   </Store_Inventory>
+   
+    <Store_Inventory>
+      <Item_ID>Itm-104</Item_ID>
+      <Store_ID>S-124</Store_ID>
+      <Total_item>13</Total_item>
+      <Item_Sold>6</Item_Sold>
+	  <Item_left>7</Item_left>
+   </Store_Inventory>
+   
+    <Store_Inventory>
+      <Item_ID>Itm-103</Item_ID>
+      <Store_ID>S-121</Store_ID>
+      <Total_item>50</Total_item>
+      <Item_Sold>14</Item_Sold>
+	  <Item_left>36</Item_left>
+   </Store_Inventory>
+   
+  
+</Inventory_Mngment>

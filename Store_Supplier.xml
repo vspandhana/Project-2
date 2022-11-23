@@ -1,0 +1,48 @@
+<?xml version = "1.0"?>
+
+
+    <Store_Supplier>
+      <Supply_ID>SUPPLY-800</Supply_ID>
+      <Supply_date>9/11/2021</Supply_date>
+      <Store_ID>S-121</Store_ID>
+      <Item_ID>Itm-101</Item_ID>
+	  <Supplier_ID>SP-369</Supplier_ID>
+	  <Item_Count>40</Item_Count>
+   </Store_Supplier>
+   
+   <Store_Supplier>
+      <Supply_ID>SUPPLY-801</Supply_ID>
+      <Supply_date>10/12/2021</Supply_date>
+      <Store_ID>S-122</Store_ID>
+      <Item_ID>Itm-102</Item_ID>
+	  <Supplier_ID>SP-370</Supplier_ID>
+	  <Item_Count>67</Item_Count>
+   </Store_Supplier>
+   
+   <Store_Supplier>
+      <Supply_ID>SUPPLY-802</Supply_ID>
+      <Supply_date>11/13/2021</Supply_date>
+      <Store_ID>S-123</Store_ID>
+      <Item_ID>Itm-103</Item_ID>
+	  <Supplier_ID>SP-371</Supplier_ID>
+	  <Item_Count>71</Item_Count>
+   </Store_Supplier>
+   
+   <Store_Supplier>
+      <Supply_ID>SUPPLY-803</Supply_ID>
+      <Supply_date>12/14/2021</Supply_date>
+      <Store_ID>S-124</Store_ID>
+      <Item_ID>Itm-104</Item_ID>
+	  <Supplier_ID>SP-372</Supplier_ID>
+	  <Item_Count>13</Item_Count>
+   </Store_Supplier>
+   
+   <Store_Supplier>
+      <Supply_ID>SUPPLY-804</Supply_ID>
+      <Supply_date>12/1/2022</Supply_date>
+      <Store_ID>S-121</Store_ID>
+      <Item_ID>Itm-103</Item_ID>
+	  <Supplier_ID>SP-371</Supplier_ID>
+	  <Item_Count>50</Item_Count>
+   </Store_Supplier>
+</Inventory_Mngment>
